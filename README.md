@@ -18,10 +18,6 @@ Este projeto utiliza as seguintes dependências de pacotes NuGet:
 
 Para instalar as dependências necessárias, você pode usar o **NuGet** no terminal ou no **Visual Studio**. Veja os comandos para instalação via terminal:
 
-### Como instalar as dependências
-
-Para instalar as dependências necessárias, você pode usar o **NuGet** no terminal ou no **Visual Studio**. Veja os comandos para instalação via terminal:
-
 1. **Instalar Selenium.WebDriver**:
    ```bash
    dotnet add package Selenium.WebDriver --version 4.30.0
